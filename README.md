@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 
-🎓 I am Harsh Raj, a **Fullstack Engineer** (specializing in **React/Node Applications**)
+🎓 I am Harsh Raj, a **Web 3 Fullstack Engineer** (specializing in **React/Node Applications**)
  
 
 ## 🛠️ Skills
